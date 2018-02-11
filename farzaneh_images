@@ -1,1 +1,2 @@
 git commit -m "My new generated images"
+git push origin master
